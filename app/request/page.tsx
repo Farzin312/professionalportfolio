@@ -1,6 +1,7 @@
 import React from 'react'
 import RequestForm from '../components/RequestForm'
 
+
 export default function RequestPage() {
   return (
     <main className="min-h-screen flex">
@@ -12,7 +13,7 @@ export default function RequestPage() {
             to life and build a business that scales with success.
           </h1>
           <p className="font-medium">Don’t hesitate to reach out — I’m always just a click away!</p>
-          <p className="font-medium">farzinshifat@gmail.com</p>
+          <p className="font-medium">upstride936@gmail.com</p>
           <p className="font-medium">Based in NYC</p>
         </div>
       </div>

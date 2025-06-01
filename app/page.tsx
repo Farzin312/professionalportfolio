@@ -14,8 +14,8 @@ export const metadata: Metadata = {
     title: "Home – Upstride",
     description:
       "Specializing in modular AI lead-gen, analytics, auth/security, microservices, and turnkey services.",
-    url: "https://yourdomain.com",
-    images: [{ url: "https://yourdomain.com/home-og.jpg", width: 1200, height: 630 }],
+    url: "https://upstride.tech",
+    images: [{ url: "https://upstride.tech/logo.png", width: 1200, height: 630 }],
   },
 };
 

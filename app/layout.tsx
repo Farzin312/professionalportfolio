@@ -4,14 +4,12 @@ import "./globals.css";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
-// Primary font: Poppins (professional yet friendly)
 const poppins = Poppins({
   variable: "--font-sans",
   weight: ["400", "600", "700"],
   subsets: ["latin"],
 });
 
-// Monospace for code snippets: JetBrains Mono (modern, fun)
 const jetBrainsMono = JetBrains_Mono({
   variable: "--font-mono",
   weight: ["400", "600"],
@@ -26,8 +24,8 @@ export const metadata: Metadata = {
     title: "Upstride – AI & Backend Integrations",
     description:
       "Specializing in SEO, payments, finance automation, analytics, and secure auth modules.",
-    url: "https://yourdomain.com", // Update when you purchase your domain
-    images: [{ url: "https://yourdomain.com/og-image.jpg", width: 1200, height: 630 }],
+    url: "https://upstride.tech", 
+    images: [{ url: "https://upstride.tech/logo.png", width: 1200, height: 630 }],
     siteName: "Upstride",
   },
   twitter: {

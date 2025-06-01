@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Project Portfolio | Farzin Shifat',
     description:
       'Dive into modular, production-ready projects built with Next.js, AI, and robust backend systems.',
-    url: 'https://github.com/Farzin312/projects',
+    url: 'https://github.com/Farzin312',
   },
 }
 
